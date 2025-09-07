@@ -8,6 +8,10 @@
     {
       "url": "http://localhost:3000",
       "description": "Local server"
+    },
+    {
+      "url": "https://notatmrp-ya72y.ondigitalocean.app",
+      "description": "Deployed API"
     }
   ],
   "components": {
